@@ -34,4 +34,4 @@
   [opera_violentmonkey]: https://addons.opera.com/extensions/details/violent-monkey/
 
 <!-- Download links -->
-  [greasyfork_url]: <https://greasyfork.org/en/scripts> "Install via GreasyFork"
+  [greasyfork_url]: <https://greasyfork.org/en/scripts/542652-roblox-friends-list-fix> "Install via GreasyFork"
