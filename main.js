@@ -91,9 +91,9 @@
                             writable: false
                         });
                     }
-                    catch (eggseption)
+                    catch (eggsception)
                     {
-                        console.error('Invalid response override:', eggseption);
+                        console.error('Invalid response override:', eggsception);
                     };
                 };
                 //
