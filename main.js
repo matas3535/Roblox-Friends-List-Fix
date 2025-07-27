@@ -107,5 +107,5 @@
         return original_send.apply(this, args);
     };
     //
-    console.log('Loaded');
+    console.log('Loaded roblox friends list fix.');
 })();
